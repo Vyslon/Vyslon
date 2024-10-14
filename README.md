@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vyslon
-- 👀 I’m interested in Computer Science (mostly algorithmic)
+- 👀 I’m interested in Computer Science (mostly functional programming)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : santoni.thomas26@hotmail.fr
